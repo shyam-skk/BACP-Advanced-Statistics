@@ -1,4 +1,4 @@
-# BACP-Advanced-Statistics
+#  IPL Player Ranking, Household expenditure prediction and Bank Marketing Campaign
 
 #1.	ANOVA – Bank Marketing Campaign
 Part of new product introduction a bank conducted a market campaign among its customers. Bank targeted 20000 (twenty thousand) customers and collect data from them. The      collected data is contained in the data set PL_X_SELL in CSV format. We need to conduct the analysis of variance on the variables occupation of the customers and gender of the customer against the average quarterly balance of the customer.
